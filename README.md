@@ -1,4 +1,4 @@
-# api-test-server
+# react-vite-template-api
 
 NestJS API server สำหรับทดสอบ (แยกจาก react-vite-template)
 
